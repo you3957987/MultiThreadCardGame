@@ -1,5 +1,22 @@
 [![Notion](https://img.shields.io/badge/노션_포트폴리오_바로가기-%232F343B.svg?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/3198942a9aa6809a8d64fe9d64a47f67?source=copy_link)
 
+### 프로젝트 개요
+
+* **성격 :** 상명대학교 멀티쓰레드 게임프로그래밍 전공 수업 프로젝트
+* **핵심 목표 :** C 언어와 Pthread 라이브러리를 활용하여, 턴제가 아닌 실시간으로 동작하는 로컬 멀티플레이 카드 게임 개발
+* **개발 환경 :** C, Linux(Ubuntu)
+    > 🔖 **[게임 소개]**
+    >
+    > **쉴 새 없이 오가는 카드 속에서 가장 높은 점수를 쟁취하세요!**
+    >
+    > 리눅스 터미널 창에서 펼쳐지는 2인용 실시간 로컬 카드 배틀 게임입니다.
+    >
+    > 하나의 키보드를 나누어 쓰며 중앙 더미에서 카드를 선점하거나, 불필요한 카드를 상대에게 떠넘기는 등 찰나의 판단이 승패를 가릅니다.
+    >
+    > 턴제가 아닌 실시간으로 진행되는 아슬아슬한 눈치싸움을 즐겨보세요.
+
+### 게임 컨셉 및 주요 특징
+
 <p align="center">
   <img width="800" alt="게임 가이드" src="https://github.com/user-attachments/assets/f917a9ce-16a1-4780-ad23-fd436aa8a836" />
   <br>
