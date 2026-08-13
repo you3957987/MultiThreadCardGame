@@ -1,6 +1,18 @@
-[![Notion](https://img.shields.io/badge/노션_포트폴리오_바로가기-%232F343B.svg?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/3198942a9aa6809a8d64fe9d64a47f67?source=copy_link)
+<div align="center">
+  
+  # 🃏 멀티스레드 카드 게임
+  
+  [![Notion](https://img.shields.io/badge/노션_포트폴리오-%232F343B.svg?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/3198942a9aa6809a8d64fe9d64a47f67?source=copy_link)
+  
+  <br>
 
-### 프로젝트 개요
+  <img width="800" alt="멀티스레드 카드 게임 썸네일" src="https://github.com/user-attachments/assets/2ecb4140-a6e0-4dad-a577-314e7638415b" />
+
+</div>
+
+<br>
+
+### 📌 프로젝트 개요
 
 * **성격 :** 상명대학교 멀티쓰레드 게임프로그래밍 전공 수업 프로젝트
 * **핵심 목표 :** C 언어와 Pthread 라이브러리를 활용하여, 턴제가 아닌 실시간으로 동작하는 로컬 멀티플레이 카드 게임 개발
