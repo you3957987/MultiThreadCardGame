@@ -1,5 +1,6 @@
-노션 링크 : https://app.notion.com/p/3198942a9aa6809a8d64fe9d64a47f67?source=copy_link
+[![Notion](https://img.shields.io/badge/노션_포트폴리오_바로가기-%232F343B.svg?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/3198942a9aa6809a8d64fe9d64a47f67?source=copy_link)
 
+이거 다크그레이로 ㅇㅋ?
 
 <p align="center">
   <img width="800" alt="게임 가이드" src="https://github.com/user-attachments/assets/f917a9ce-16a1-4780-ad23-fd436aa8a836" />
